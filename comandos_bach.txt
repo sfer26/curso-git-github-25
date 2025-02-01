@@ -1,0 +1,6 @@
+ls: *lista* todos os arquivos e pastas de onde (diretorio) voce ta
+cd: *muda* voce de diretorio. andar de diretorio. move
+pwd: mostra o caminho absoluto de onde estou
+ls -a: pastas ocultas
+cd .. : andar para a pasta de cima
+mkdir: construir pasta
