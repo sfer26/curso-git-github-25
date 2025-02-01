@@ -5,3 +5,4 @@ ls -a -> pastas ocultas
 cd .. -> andar para a pasta de cima
 mkdir -> construir pasta
 rm -> remove arquivo do diretorio
+rm -rf -> CUIDADO. APAGA TUDO. remove de forma recursiva e forçada todos os diretorios
