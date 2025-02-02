@@ -1,8 +1,8 @@
-git init. -> cria um repo git na pasta atual
-git status -> mostra o staus do trabalho (de cada ar)
-git add nome_arq -> adiciona arquivo para ser commitado
+git init.           -> cria um repo git na pasta atual
+git status          -> mostra o staus do trabalho (de cada ar)
+git add nome_arq    -> adiciona arquivo para ser commitado
 git commit -m "msg" -> faz commit do que do que estava para ser commitado
-git log -> mostra todo o histórico de commit
+git log             -> mostra todo o histórico de commit
 
 ##FLUXO DE TRABALHO
 1. Criar o diretorio
@@ -11,7 +11,7 @@ git log -> mostra todo o histórico de commit
 4. git status
 5. git add < nome arq >
 6. git status
-7. git commit -m "msg"
+7. git commit -m "mensagem estranha"
 8. git status
 9. volta para o passo 3
 
