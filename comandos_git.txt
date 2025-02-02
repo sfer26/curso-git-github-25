@@ -1,8 +1,8 @@
-git init.           -> cria um repo git na pasta atual
-git status          -> mostra o staus do trabalho (de cada ar)
-git add nome_arq    -> adiciona arquivo para ser commitado
-git commit -m "msg" -> faz commit do que do que estava para ser commitado
-git log             -> mostra todo o histórico de commit
+git init. 	    -> Cria um repo git na pasta atual
+git status 	    -> Mostra o staus do trabalho (de cada arq)
+git add nome_arq    -> Adiciona arquivo para ser commitado
+git commit -m "msg" -> Faz commit do que do que estava para ser commitado
+git log 	    -> Mostra todo o histórico de commit
 
 ##FLUXO DE TRABALHO
 1. Criar o diretorio
