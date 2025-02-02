@@ -3,3 +3,17 @@ git status -> mostra o staus do trabalho (de cada ar)
 git add nome_arq -> adiciona arquivo para ser commitado
 git commit -m "msg" -> faz commit do que do que estava para ser commitado
 git log -> mostra todo o histórico de commit
+
+##FLUXO DE TRABALHO
+1. Criar o diretorio
+2. Iniciar o git  dentro do diretorio criado (git init .)
+3. edita ou cria arq
+4. git status
+5. git add < nome arq >
+6. git status
+7. git commit -m "msg"
+8. git status
+9. volta para o passo 3
+
+----------------------------------------------------------------------
+git diff <nome do arq> -> o que tem de diferença do ESTADO ATUAL do seu arquivo em relação ao commit anterior
